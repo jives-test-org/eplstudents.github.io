@@ -5,7 +5,7 @@ EPLStudents website recensing all major projects built by the community of stude
 It has been built using [Rocket.rs](https://rocket.rs/) and [Maud](https://maud.lambda.xyz/).
 
 
-To start the webserver, run:
+To start the webserver, run:f
 
 ```console
 cargo run
