@@ -29,7 +29,7 @@ fn base(content: Markup) -> Markup {
                 meta name="robots" content="index, follow";
                 meta name="theme-color" content="#000000";
                 meta name="viewport" content="width=device-width, initial-scale=1.0";
-                meta http-equiv="keywords" name="keywords" content="Discord, discord, epl, studentwwws, école, polytechfnique, louvain, ingénieur, cercle, industriel, uclouvain";
+                meta http-equiv="keywords" name="keywords" content="Discord, disdcord, epl, studentwwws, école, polytechfnique, louvain, ingénieur, cercle, industriel, uclouvain";
                 meta http-equiv="description" name="description" content="EPLStudents est un site recensant les liens utiles et les projets de la communauté étudiante de l'EPL.";
                 meta http-equiv="cache-control" content="no-cache";
                 meta http-equiv="pragma" content="no-cache";
